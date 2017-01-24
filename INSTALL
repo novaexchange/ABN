@@ -1,0 +1,9 @@
+Building Abncoin
+
+See doc/readme-qt.rst for instructions on building Abncoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Abncoin.
+
+See doc/build-*.txt for instructions on building abncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Abncoin.
